@@ -1,0 +1,126 @@
+@font-face {
+    font-family: 'TT Hoves Pro Trial';
+    src: url('/fonts/TTHovesProTrial-Md.eot');
+    src: url('/fonts/TTHovesProTrial-Md.eot?#iefix') format('embedded-opentype'),
+        url('/fonts/TTHovesProTrial-Md.woff2') format('woff2'),
+        url('/fonts/TTHovesProTrial-Md.woff') format('woff'),
+        url('/fonts/TTHovesProTrial-Md.ttf') format('truetype'),
+        url('/fonts/TTHovesProTrial-Md.svg#TTHovesProTrial-Md') format('svg');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'TT Hoves Pro Trial';
+    src: url('/fonts/TTHovesProTrial-Lt.eot');
+    src: url('/fonts/TTHovesProTrial-Lt.eot?#iefix') format('embedded-opentype'),
+        url('/fonts/TTHovesProTrial-Lt.woff2') format('woff2'),
+        url('/fonts/TTHovesProTrial-Lt.woff') format('woff'),
+        url('/fonts/TTHovesProTrial-Lt.ttf') format('truetype'),
+        url('/fonts/TTHovesProTrial-Lt.svg#TTHovesProTrial-Lt') format('svg');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'TT Hoves Pro Trial';
+    src: url('/fonts/TTHovesProTrial-DmBd.eot');
+    src: url('/fonts/TTHovesProTrial-DmBd.eot?#iefix') format('embedded-opentype'),
+        url('/fonts/TTHovesProTrial-DmBd.woff2') format('woff2'),
+        url('/fonts/TTHovesProTrial-DmBd.woff') format('woff'),
+        url('/fonts/TTHovesProTrial-DmBd.ttf') format('truetype'),
+        url('/fonts/TTHovesProTrial-DmBd.svg#TTHovesProTrial-DmBd') format('svg');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'TT Hoves Pro Trial';
+    src: url('/fonts/TTHovesProTrial-Rg.eot');
+    src: url('/fonts/TTHovesProTrial-Rg.eot?#iefix') format('embedded-opentype'),
+        url('/fonts/TTHovesProTrial-Rg.woff2') format('woff2'),
+        url('/fonts/TTHovesProTrial-Rg.woff') format('woff'),
+        url('/fonts/TTHovesProTrial-Rg.ttf') format('truetype'),
+        url('/fonts/TTHovesProTrial-Rg.svg#TTHovesProTrial-Rg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'TT Hoves Pro Trial';
+    src: url('/fonts/TTHovesProTrial-Bd.eot');
+    src: url('/fonts/TTHovesProTrial-Bd.eot?#iefix') format('embedded-opentype'),
+        url('/fonts/TTHovesProTrial-Bd.woff2') format('woff2'),
+        url('/fonts/TTHovesProTrial-Bd.woff') format('woff'),
+        url('/fonts/TTHovesProTrial-Bd.ttf') format('truetype'),
+        url('/fonts/TTHovesProTrial-Bd.svg#TTHovesProTrial-Bd') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'TT Interphases Pro Trl';
+    src: url('/fonts/TTInterphasesProTrl-Rg.eot');
+    src: url('/fonts/TTInterphasesProTrl-Rg.eot?#iefix') format('embedded-opentype'),
+        url('/fonts/TTInterphasesProTrl-Rg.woff2') format('woff2'),
+        url('/fonts/TTInterphasesProTrl-Rg.woff') format('woff'),
+        url('/fonts/TTInterphasesProTrl-Rg.ttf') format('truetype'),
+        url('/fonts/TTInterphasesProTrl-Rg.svg#TTInterphasesProTrl-Rg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'TT Interphases Pro Trl Lt';
+    src: url('/fonts/TTInterphasesProTrl-Lt.eot');
+    src: url('/fonts/TTInterphasesProTrl-Lt.eot?#iefix') format('embedded-opentype'),
+        url('/fonts/TTInterphasesProTrl-Lt.woff2') format('woff2'),
+        url('/fonts/TTInterphasesProTrl-Lt.woff') format('woff'),
+        url('/fonts/TTInterphasesProTrl-Lt.ttf') format('truetype'),
+        url('/fonts/TTInterphasesProTrl-Lt.svg#TTInterphasesProTrl-Lt') format('svg');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'TT Interphases Pro Trl';
+    src: url('/fonts/TTInterphasesProTrl-Bd.eot');
+    src: url('/fonts/TTInterphasesProTrl-Bd.eot?#iefix') format('embedded-opentype'),
+        url('/fonts/TTInterphasesProTrl-Bd.woff2') format('woff2'),
+        url('/fonts/TTInterphasesProTrl-Bd.woff') format('woff'),
+        url('/fonts/TTInterphasesProTrl-Bd.ttf') format('truetype'),
+        url('/fonts/TTInterphasesProTrl-Bd.svg#TTInterphasesProTrl-Bd') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'TT Interphases Pro Trl Db';
+    src: url('/fonts/TTInterphasesProTrl-DmBd.eot');
+    src: url('/fonts/TTInterphasesProTrl-DmBd.eot?#iefix') format('embedded-opentype'),
+        url('/fonts/TTInterphasesProTrl-DmBd.woff2') format('woff2'),
+        url('/fonts/TTInterphasesProTrl-DmBd.woff') format('woff'),
+        url('/fonts/TTInterphasesProTrl-DmBd.ttf') format('truetype'),
+        url('/fonts/TTInterphasesProTrl-DmBd.svg#TTInterphasesProTrl-DmBd') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'TT Interphases Pro Trl Md';
+    src: url('/fonts/TTInterphasesProTrl-Md.eot');
+    src: url('/fonts/TTInterphasesProTrl-Md.eot?#iefix') format('embedded-opentype'),
+        url('/fonts/TTInterphasesProTrl-Md.woff2') format('woff2'),
+        url('/fonts/TTInterphasesProTrl-Md.woff') format('woff'),
+        url('/fonts/TTInterphasesProTrl-Md.ttf') format('truetype'),
+        url('/fonts/TTInterphasesProTrl-Md.svg#TTInterphasesProTrl-Md') format('svg');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
