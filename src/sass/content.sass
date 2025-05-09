@@ -1254,6 +1254,8 @@ input.error
       font-size: 60px
       line-height: 60px
 .page
+   .header 
+      overflow: visible
    .header__image
       position: absolute
       top: 0
@@ -1648,7 +1650,7 @@ input.error
          position: relative
          z-index: 2
          margin-left: 213px
-.sec 
+.sec, .contacts
    .bread
       p 
          color: #595959
@@ -1965,6 +1967,11 @@ input.error
    &__el 
       width: 25%
       margin-bottom: 24px
+      small 
+         margin-left: 5px
+         display: inline-block
+         text-transform: uppercase
+         font-size: 100% !important
       span 
          display: block
          color: rgba(89, 89, 89, 0.6)
@@ -1979,6 +1986,7 @@ input.error
          line-height: 120%
          display: block
          margin-bottom: 8px
+         width: max-content
          &:last-child
             margin-bottom: 0
          &:hover 
@@ -2019,4 +2027,137 @@ input.error
          margin-bottom: 0
    &__btn 
       width: 190px
-
+.contacts2 
+   h1 
+      margin-bottom: 24px
+   &__row 
+      justify-content: space-between
+      margin-bottom: 100px
+   .contacts__item 
+      margin-bottom: 0
+      width: 49.12%
+      img 
+         width: 100%
+         height: 378px
+         object-fit: cover 
+         margin-bottom: 24px
+      h2 
+         margin-bottom: 24px
+   .contacts__row
+      flex-direction: column 
+      align-items: flex-start
+      &_1 
+         .contacts__el
+            &:first-child
+               a 
+                  font-family: 'TT Interphases Pro Trl Md'
+                  font-size: 20px
+                  font-weight: 500
+                  margin-bottom: 12px
+                  &:last-child
+                     margin-bottom: 0
+   .contacts__el
+      width: 30%
+      span 
+         font-size: 14px
+      p 
+         font-size: 12px
+.product 
+   padding: 120px 0 60px
+   &__top 
+      justify-content: space-between
+      align-items: center
+      margin-bottom: 120px
+      p 
+         width: 100%
+         max-width: 760px
+         font-family: 'TT Hoves Pro Trial'
+         color: rgb(16, 24, 32)
+         font-size: 24px
+         font-weight: 500
+         line-height: 120%
+      img 
+         width: 90px
+         height: 90px
+         object-fit: contain
+   &__item 
+      align-items: flex-start
+      justify-content: flex-start
+      padding: 24px 0
+      border-bottom: 1px solid rgb(219, 219, 219)
+      a 
+         &:first-of-type
+            color: rgb(16, 24, 32)
+            font-family: 'TT Hoves Pro Trial'
+            font-size: 20px
+            font-weight: 500
+            line-height: 120%
+            min-width: 353px
+            margin-right: 163px
+            &:hover 
+               color: $blue
+         &:last-of-type
+            color: rgb(0, 133, 191)
+            font-size: 14px
+            font-weight: 500
+            line-height: 120% 
+            margin-left: auto
+            font-family: 'TT Interphases Pro Trl Md'
+            &:hover 
+               color: #000
+      p 
+         color: rgb(89, 89, 89)
+         font-size: 16px
+         font-weight: 400
+         line-height: 120%
+         width: 100%
+         max-width: 519px
+      div
+         p
+            margin-bottom: 15px
+            &:last-child
+               margin-bottom: 0
+      span 
+         color: rgb(138, 142, 146)
+         font-size: 14px
+         font-weight: 400
+         line-height: 120%
+         &:first-child
+            margin-right: 451px
+      strong 
+         display: block
+         font-weight: 500
+         font-size: 100%
+         line-height: 120%
+         color: #101820
+         margin-bottom: 5px
+         font-family: 'TT Interphases Pro Trl Md'
+      &:first-child
+         padding-bottom: 18px
+         padding-top: 0
+         border-bottom: 1px solid rgb(219, 219, 219)
+      &:last-child
+         margin-bottom: 0
+.product2
+   .product__item p
+      max-width: 541px
+.product3 
+   .product__top p
+      max-width: 769px
+   .product__item p
+      max-width: 566px
+.product4
+   .product__top p
+      max-width: 768px
+.product5
+   .product__item p
+      max-width: 553px
+.product6
+   .product__top p
+      max-width: 834px
+.product8
+   .product__item p
+      max-width: 534px
+.product9
+   .product__top p
+      max-width: 645px

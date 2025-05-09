@@ -305,80 +305,80 @@ html *::-webkit-scrollbar-thumb {
 
 @font-face {
   font-family: 'TT Hoves Pro Trial';
-  src: url("/fonts/TTHovesProTrial-Md.eot");
-  src: url("/fonts/TTHovesProTrial-Md.eot?#iefix") format("embedded-opentype"), url("/fonts/TTHovesProTrial-Md.woff2") format("woff2"), url("/fonts/TTHovesProTrial-Md.woff") format("woff"), url("/fonts/TTHovesProTrial-Md.ttf") format("truetype"), url("/fonts/TTHovesProTrial-Md.svg#TTHovesProTrial-Md") format("svg");
+  src: url("../fonts/TTHovesProTrial-Md.eot");
+  src: url("../fonts/TTHovesProTrial-Md.eot?#iefix") format("embedded-opentype"), url("../fonts/TTHovesProTrial-Md.woff2") format("woff2"), url("../fonts/TTHovesProTrial-Md.woff") format("woff"), url("../fonts/TTHovesProTrial-Md.ttf") format("truetype"), url("../fonts/TTHovesProTrial-Md.svg#TTHovesProTrial-Md") format("svg");
   font-weight: 500;
   font-style: normal;
   font-display: swap; }
 
 @font-face {
   font-family: 'TT Hoves Pro Trial';
-  src: url("/fonts/TTHovesProTrial-Lt.eot");
-  src: url("/fonts/TTHovesProTrial-Lt.eot?#iefix") format("embedded-opentype"), url("/fonts/TTHovesProTrial-Lt.woff2") format("woff2"), url("/fonts/TTHovesProTrial-Lt.woff") format("woff"), url("/fonts/TTHovesProTrial-Lt.ttf") format("truetype"), url("/fonts/TTHovesProTrial-Lt.svg#TTHovesProTrial-Lt") format("svg");
+  src: url("../fonts/TTHovesProTrial-Lt.eot");
+  src: url("../fonts/TTHovesProTrial-Lt.eot?#iefix") format("embedded-opentype"), url("../fonts/TTHovesProTrial-Lt.woff2") format("woff2"), url("../fonts/TTHovesProTrial-Lt.woff") format("woff"), url("../fonts/TTHovesProTrial-Lt.ttf") format("truetype"), url("../fonts/TTHovesProTrial-Lt.svg#TTHovesProTrial-Lt") format("svg");
   font-weight: 300;
   font-style: normal;
   font-display: swap; }
 
 @font-face {
   font-family: 'TT Hoves Pro Trial';
-  src: url("/fonts/TTHovesProTrial-DmBd.eot");
-  src: url("/fonts/TTHovesProTrial-DmBd.eot?#iefix") format("embedded-opentype"), url("/fonts/TTHovesProTrial-DmBd.woff2") format("woff2"), url("/fonts/TTHovesProTrial-DmBd.woff") format("woff"), url("/fonts/TTHovesProTrial-DmBd.ttf") format("truetype"), url("/fonts/TTHovesProTrial-DmBd.svg#TTHovesProTrial-DmBd") format("svg");
+  src: url("../fonts/TTHovesProTrial-DmBd.eot");
+  src: url("../fonts/TTHovesProTrial-DmBd.eot?#iefix") format("embedded-opentype"), url("../fonts/TTHovesProTrial-DmBd.woff2") format("woff2"), url("../fonts/TTHovesProTrial-DmBd.woff") format("woff"), url("../fonts/TTHovesProTrial-DmBd.ttf") format("truetype"), url("../fonts/TTHovesProTrial-DmBd.svg#TTHovesProTrial-DmBd") format("svg");
   font-weight: 600;
   font-style: normal;
   font-display: swap; }
 
 @font-face {
   font-family: 'TT Hoves Pro Trial';
-  src: url("/fonts/TTHovesProTrial-Rg.eot");
-  src: url("/fonts/TTHovesProTrial-Rg.eot?#iefix") format("embedded-opentype"), url("/fonts/TTHovesProTrial-Rg.woff2") format("woff2"), url("/fonts/TTHovesProTrial-Rg.woff") format("woff"), url("/fonts/TTHovesProTrial-Rg.ttf") format("truetype"), url("/fonts/TTHovesProTrial-Rg.svg#TTHovesProTrial-Rg") format("svg");
+  src: url("../fonts/TTHovesProTrial-Rg.eot");
+  src: url("../fonts/TTHovesProTrial-Rg.eot?#iefix") format("embedded-opentype"), url("../fonts/TTHovesProTrial-Rg.woff2") format("woff2"), url("../fonts/TTHovesProTrial-Rg.woff") format("woff"), url("../fonts/TTHovesProTrial-Rg.ttf") format("truetype"), url("../fonts/TTHovesProTrial-Rg.svg#TTHovesProTrial-Rg") format("svg");
   font-weight: normal;
   font-style: normal;
   font-display: swap; }
 
 @font-face {
   font-family: 'TT Hoves Pro Trial';
-  src: url("/fonts/TTHovesProTrial-Bd.eot");
-  src: url("/fonts/TTHovesProTrial-Bd.eot?#iefix") format("embedded-opentype"), url("/fonts/TTHovesProTrial-Bd.woff2") format("woff2"), url("/fonts/TTHovesProTrial-Bd.woff") format("woff"), url("/fonts/TTHovesProTrial-Bd.ttf") format("truetype"), url("/fonts/TTHovesProTrial-Bd.svg#TTHovesProTrial-Bd") format("svg");
+  src: url("../fonts/TTHovesProTrial-Bd.eot");
+  src: url("../fonts/TTHovesProTrial-Bd.eot?#iefix") format("embedded-opentype"), url("../fonts/TTHovesProTrial-Bd.woff2") format("woff2"), url("../fonts/TTHovesProTrial-Bd.woff") format("woff"), url("../fonts/TTHovesProTrial-Bd.ttf") format("truetype"), url("../fonts/TTHovesProTrial-Bd.svg#TTHovesProTrial-Bd") format("svg");
   font-weight: bold;
   font-style: normal;
   font-display: swap; }
 
 @font-face {
   font-family: 'TT Interphases Pro Trl';
-  src: url("/fonts/TTInterphasesProTrl-Rg.eot");
-  src: url("/fonts/TTInterphasesProTrl-Rg.eot?#iefix") format("embedded-opentype"), url("/fonts/TTInterphasesProTrl-Rg.woff2") format("woff2"), url("/fonts/TTInterphasesProTrl-Rg.woff") format("woff"), url("/fonts/TTInterphasesProTrl-Rg.ttf") format("truetype"), url("/fonts/TTInterphasesProTrl-Rg.svg#TTInterphasesProTrl-Rg") format("svg");
+  src: url("../fonts/TTInterphasesProTrl-Rg.eot");
+  src: url("../fonts/TTInterphasesProTrl-Rg.eot?#iefix") format("embedded-opentype"), url("../fonts/TTInterphasesProTrl-Rg.woff2") format("woff2"), url("../fonts/TTInterphasesProTrl-Rg.woff") format("woff"), url("../fonts/TTInterphasesProTrl-Rg.ttf") format("truetype"), url("../fonts/TTInterphasesProTrl-Rg.svg#TTInterphasesProTrl-Rg") format("svg");
   font-weight: normal;
   font-style: normal;
   font-display: swap; }
 
 @font-face {
   font-family: 'TT Interphases Pro Trl Lt';
-  src: url("/fonts/TTInterphasesProTrl-Lt.eot");
-  src: url("/fonts/TTInterphasesProTrl-Lt.eot?#iefix") format("embedded-opentype"), url("/fonts/TTInterphasesProTrl-Lt.woff2") format("woff2"), url("/fonts/TTInterphasesProTrl-Lt.woff") format("woff"), url("/fonts/TTInterphasesProTrl-Lt.ttf") format("truetype"), url("/fonts/TTInterphasesProTrl-Lt.svg#TTInterphasesProTrl-Lt") format("svg");
+  src: url("../fonts/TTInterphasesProTrl-Lt.eot");
+  src: url("../fonts/TTInterphasesProTrl-Lt.eot?#iefix") format("embedded-opentype"), url("../fonts/TTInterphasesProTrl-Lt.woff2") format("woff2"), url("../fonts/TTInterphasesProTrl-Lt.woff") format("woff"), url("../fonts/TTInterphasesProTrl-Lt.ttf") format("truetype"), url("../fonts/TTInterphasesProTrl-Lt.svg#TTInterphasesProTrl-Lt") format("svg");
   font-weight: 300;
   font-style: normal;
   font-display: swap; }
 
 @font-face {
   font-family: 'TT Interphases Pro Trl';
-  src: url("/fonts/TTInterphasesProTrl-Bd.eot");
-  src: url("/fonts/TTInterphasesProTrl-Bd.eot?#iefix") format("embedded-opentype"), url("/fonts/TTInterphasesProTrl-Bd.woff2") format("woff2"), url("/fonts/TTInterphasesProTrl-Bd.woff") format("woff"), url("/fonts/TTInterphasesProTrl-Bd.ttf") format("truetype"), url("/fonts/TTInterphasesProTrl-Bd.svg#TTInterphasesProTrl-Bd") format("svg");
+  src: url("../fonts/TTInterphasesProTrl-Bd.eot");
+  src: url("../fonts/TTInterphasesProTrl-Bd.eot?#iefix") format("embedded-opentype"), url("../fonts/TTInterphasesProTrl-Bd.woff2") format("woff2"), url("../fonts/TTInterphasesProTrl-Bd.woff") format("woff"), url("../fonts/TTInterphasesProTrl-Bd.ttf") format("truetype"), url("../fonts/TTInterphasesProTrl-Bd.svg#TTInterphasesProTrl-Bd") format("svg");
   font-weight: bold;
   font-style: normal;
   font-display: swap; }
 
 @font-face {
   font-family: 'TT Interphases Pro Trl Db';
-  src: url("/fonts/TTInterphasesProTrl-DmBd.eot");
-  src: url("/fonts/TTInterphasesProTrl-DmBd.eot?#iefix") format("embedded-opentype"), url("/fonts/TTInterphasesProTrl-DmBd.woff2") format("woff2"), url("/fonts/TTInterphasesProTrl-DmBd.woff") format("woff"), url("/fonts/TTInterphasesProTrl-DmBd.ttf") format("truetype"), url("/fonts/TTInterphasesProTrl-DmBd.svg#TTInterphasesProTrl-DmBd") format("svg");
+  src: url("../fonts/TTInterphasesProTrl-DmBd.eot");
+  src: url("../fonts/TTInterphasesProTrl-DmBd.eot?#iefix") format("embedded-opentype"), url("../fonts/TTInterphasesProTrl-DmBd.woff2") format("woff2"), url("../fonts/TTInterphasesProTrl-DmBd.woff") format("woff"), url("../fonts/TTInterphasesProTrl-DmBd.ttf") format("truetype"), url("../fonts/TTInterphasesProTrl-DmBd.svg#TTInterphasesProTrl-DmBd") format("svg");
   font-weight: normal;
   font-style: normal;
   font-display: swap; }
 
 @font-face {
   font-family: 'TT Interphases Pro Trl Md';
-  src: url("/fonts/TTInterphasesProTrl-Md.eot");
-  src: url("/fonts/TTInterphasesProTrl-Md.eot?#iefix") format("embedded-opentype"), url("/fonts/TTInterphasesProTrl-Md.woff2") format("woff2"), url("/fonts/TTInterphasesProTrl-Md.woff") format("woff"), url("/fonts/TTInterphasesProTrl-Md.ttf") format("truetype"), url("/fonts/TTInterphasesProTrl-Md.svg#TTInterphasesProTrl-Md") format("svg");
+  src: url("../fonts/TTInterphasesProTrl-Md.eot");
+  src: url("../fonts/TTInterphasesProTrl-Md.eot?#iefix") format("embedded-opentype"), url("../fonts/TTInterphasesProTrl-Md.woff2") format("woff2"), url("../fonts/TTInterphasesProTrl-Md.woff") format("woff"), url("../fonts/TTInterphasesProTrl-Md.ttf") format("truetype"), url("../fonts/TTInterphasesProTrl-Md.svg#TTInterphasesProTrl-Md") format("svg");
   font-weight: 500;
   font-style: normal;
   font-display: swap; }
@@ -442,7 +442,7 @@ input:-moz-placeholder {
   margin-right: 11px; }
 
 .custom-checkbox:checked + label::before {
-  background: url(/img/check2.png) no-repeat center center;
+  background: url(../img/check2.png) no-repeat center center;
   background-size: 8px; }
 
 .swiper-pagination {
@@ -556,7 +556,7 @@ input:-moz-placeholder {
   height: 5px;
   text-align: center;
   vertical-align: top;
-  background: url(/img/down-arrow.png) no-repeat !important;
+  background: url(../img/down-arrow.png) no-repeat !important;
   position: absolute;
   right: -16px;
   top: 8px; }
@@ -1677,6 +1677,9 @@ input.error {
   font-size: 60px;
   line-height: 60px; }
 
+.page .header {
+  overflow: visible; }
+
 .page .header__image {
   position: absolute;
   top: 0;
@@ -2068,7 +2071,7 @@ input.error {
     z-index: 2;
     margin-left: 213px; }
 
-.sec .bread p {
+.sec .bread p, .contacts .bread p {
   color: #595959; }
 
 .news-page {
@@ -2389,6 +2392,11 @@ input.error {
 .contacts__el {
   width: 25%;
   margin-bottom: 24px; }
+  .contacts__el small {
+    margin-left: 5px;
+    display: inline-block;
+    text-transform: uppercase;
+    font-size: 100% !important; }
   .contacts__el span {
     display: block;
     color: rgba(89, 89, 89, 0.6);
@@ -2402,7 +2410,8 @@ input.error {
     font-weight: 400;
     line-height: 120%;
     display: block;
-    margin-bottom: 8px; }
+    margin-bottom: 8px;
+    width: max-content; }
     .contacts__el a:last-child {
       margin-bottom: 0; }
     .contacts__el a:hover {
@@ -2447,6 +2456,141 @@ input.error {
 .contacts__btn {
   width: 190px; }
 
+.contacts2 h1 {
+  margin-bottom: 24px; }
+
+.contacts2__row {
+  justify-content: space-between;
+  margin-bottom: 100px; }
+
+.contacts2 .contacts__item {
+  margin-bottom: 0;
+  width: 49.12%; }
+  .contacts2 .contacts__item img {
+    width: 100%;
+    height: 378px;
+    object-fit: cover;
+    margin-bottom: 24px; }
+  .contacts2 .contacts__item h2 {
+    margin-bottom: 24px; }
+
+.contacts2 .contacts__row {
+  flex-direction: column;
+  align-items: flex-start; }
+  .contacts2 .contacts__row_1 .contacts__el:first-child a {
+    font-family: 'TT Interphases Pro Trl Md';
+    font-size: 20px;
+    font-weight: 500;
+    margin-bottom: 12px; }
+    .contacts2 .contacts__row_1 .contacts__el:first-child a:last-child {
+      margin-bottom: 0; }
+
+.contacts2 .contacts__el {
+  width: 30%; }
+  .contacts2 .contacts__el span {
+    font-size: 14px; }
+  .contacts2 .contacts__el p {
+    font-size: 12px; }
+
+.product {
+  padding: 120px 0 60px; }
+  .product__top {
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 120px; }
+    .product__top p {
+      width: 100%;
+      max-width: 760px;
+      font-family: 'TT Hoves Pro Trial';
+      color: #101820;
+      font-size: 24px;
+      font-weight: 500;
+      line-height: 120%; }
+    .product__top img {
+      width: 90px;
+      height: 90px;
+      object-fit: contain; }
+  .product__item {
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 24px 0;
+    border-bottom: 1px solid #dbdbdb; }
+    .product__item a:first-of-type {
+      color: #101820;
+      font-family: 'TT Hoves Pro Trial';
+      font-size: 20px;
+      font-weight: 500;
+      line-height: 120%;
+      min-width: 353px;
+      margin-right: 163px; }
+      .product__item a:first-of-type:hover {
+        color: #0085BF; }
+    .product__item a:last-of-type {
+      color: #0085bf;
+      font-size: 14px;
+      font-weight: 500;
+      line-height: 120%;
+      margin-left: auto;
+      font-family: 'TT Interphases Pro Trl Md'; }
+      .product__item a:last-of-type:hover {
+        color: #000; }
+    .product__item p {
+      color: #595959;
+      font-size: 16px;
+      font-weight: 400;
+      line-height: 120%;
+      width: 100%;
+      max-width: 519px; }
+    .product__item div p {
+      margin-bottom: 15px; }
+      .product__item div p:last-child {
+        margin-bottom: 0; }
+    .product__item span {
+      color: #8a8e92;
+      font-size: 14px;
+      font-weight: 400;
+      line-height: 120%; }
+      .product__item span:first-child {
+        margin-right: 451px; }
+    .product__item strong {
+      display: block;
+      font-weight: 500;
+      font-size: 100%;
+      line-height: 120%;
+      color: #101820;
+      margin-bottom: 5px;
+      font-family: 'TT Interphases Pro Trl Md'; }
+    .product__item:first-child {
+      padding-bottom: 18px;
+      padding-top: 0;
+      border-bottom: 1px solid #dbdbdb; }
+    .product__item:last-child {
+      margin-bottom: 0; }
+
+.product2 .product__item p {
+  max-width: 541px; }
+
+.product3 .product__top p {
+  max-width: 769px; }
+
+.product3 .product__item p {
+  max-width: 566px; }
+
+.product4 .product__top p {
+  max-width: 768px; }
+
+.product5 .product__item p {
+  max-width: 553px; }
+
+.product6 .product__top p {
+  max-width: 834px; }
+
+.product8 .product__item p {
+  max-width: 534px; }
+
+.product9 .product__top p {
+  max-width: 645px; }
+
 @media screen and (max-width: 1390px) {
   .container {
     max-width: 1200px !important; }
@@ -2477,9 +2621,17 @@ input.error {
   .documents .tabs__nav {
     flex-wrap: wrap; }
     .documents .tabs__nav a {
-      margin-bottom: 8px; } }
+      margin-bottom: 8px; }
+  .contacts2 .contacts__el {
+    width: 34%; }
+  .product__item a:first-of-type {
+    margin-right: 90px; }
+  .product__item span:first-child {
+    margin-right: 379px; } }
 
 @media screen and (max-width: 1199px) {
+  .product__top p br {
+    display: none; }
   .container {
     max-width: 960px !important;
     padding: 0; }
@@ -2493,7 +2645,7 @@ input.error {
     top: 11px;
     z-index: 11;
     overflow: hidden;
-    background: url(/img/bur1.svg) no-repeat center center; }
+    background: url(../img/bur1.svg) no-repeat center center; }
   .nav__box {
     position: relative;
     padding-right: 43px; }
@@ -2544,7 +2696,7 @@ input.error {
           line-height: 120%;
           color: #BFBFBF; }
   .menu-btn.active {
-    background: url(/img/close.svg) no-repeat center center;
+    background: url(../img/close.svg) no-repeat center center;
     width: 18px;
     height: 18px; }
   .search {
@@ -2616,7 +2768,7 @@ input.error {
     margin-bottom: 20px; }
   .header .container-nav {
     margin-right: -480px; }
-  .prod {
+  .prod, .product {
     padding: 100px 0 50px; }
   .prod__item p {
     font-size: 14px; }
@@ -2821,7 +2973,49 @@ input.error {
   .news-item2__slider {
     position: relative;
     top: 0;
-    margin-bottom: 24px; } }
+    margin-bottom: 24px; }
+  .contacts h1 {
+    margin-bottom: 32px; }
+  .contacts h2 {
+    font-size: 20px;
+    margin-bottom: 16px; }
+  .contacts__el span, .contacts__el p, .contacts__el a {
+    font-size: 14px; }
+  .contacts #map {
+    height: 580px;
+    margin-bottom: 48px; }
+  .contacts__info h2 {
+    margin-bottom: 24px; }
+  .contacts__per h3 {
+    font-size: 14px; }
+  .contacts__area p {
+    font-size: 14px; }
+  .contacts__per {
+    margin-bottom: 32px; }
+  .contacts__el {
+    width: 33%; }
+  .contacts__row_1 .contacts__el:nth-child(1) {
+    order: 1; }
+  .contacts__row_1 .contacts__el:nth-child(2) {
+    order: 2; }
+  .contacts__row_1 .contacts__el:nth-child(3) {
+    order: 3; }
+  .contacts__row_1 .contacts__el:nth-child(4) {
+    order: 5; }
+  .contacts__row_1 .contacts__el:nth-child(5) {
+    order: 4; }
+  .news-page {
+    padding-bottom: 100px; }
+  .contacts2 .contacts__el {
+    width: 41%; }
+  .contacts2__row {
+    margin-bottom: 90px; }
+  .product__item a:first-of-type {
+    margin-right: 20px; }
+  .product__item p {
+    max-width: 444px !important; }
+  .product__item span:first-child {
+    margin-right: 309px; } }
 
 @media (max-width: 991px) {
   .submenu-content {
@@ -2987,9 +3181,53 @@ input.error {
     width: 100%;
     margin-bottom: 16px; }
   .documents__info p, .documents__info a {
-    font-size: 14px; } }
+    font-size: 14px; }
+  .contacts__el {
+    width: 45%; }
+  .contacts__row_2 .contacts__el:nth-child(1) {
+    order: 1; }
+  .contacts__row_2 .contacts__el:nth-child(2) {
+    order: 3; }
+  .contacts__row_2 .contacts__el:nth-child(3) {
+    order: 2; }
+  .contacts__area p:first-child {
+    min-width: 187px; }
+  .contacts2 .contacts__item img {
+    height: 240px;
+    margin-bottom: 16px; }
+  .contacts2 .contacts__row_1 .contacts__el:first-child a {
+    font-size: 14px;
+    margin-bottom: 8px; }
+    .contacts2 .contacts__row_1 .contacts__el:first-child a:last-child {
+      margin-top: 12px; }
+  .contacts2 .contacts__el {
+    width: 55%; }
+  .contacts2__row {
+    margin-bottom: 48px; }
+  .contacts2 .contacts__item {
+    width: 49%; }
+  .contacts2 .contacts__item h2 {
+    margin-bottom: 16px; }
+  .product {
+    padding-top: 70px; }
+  .product__top p {
+    font-size: 20px;
+    max-width: 568px !important; }
+  .product__top {
+    margin-bottom: 100px; }
+  .product__item a:last-of-type {
+    display: none; }
+  .product__item a:first-of-type, .product__item p {
+    font-size: 14px; }
+  .product__item a:first-of-type {
+    min-width: 280px;
+    color: #0085BF; }
+  .product__item span:first-child {
+    margin-right: 236px; } }
 
 @media screen and (max-width: 767px) {
+  .product__item p {
+    max-width: 100% !important; }
   .container {
     max-width: 540px !important; }
   h2 {
@@ -3042,7 +3280,7 @@ input.error {
     .menu__item p:after {
       content: "";
       display: block;
-      background: url(/img/menu-arr.svg) no-repeat !important;
+      background: url(../img/menu-arr.svg) no-repeat !important;
       width: 7px;
       height: 15px;
       position: absolute;
@@ -3073,7 +3311,7 @@ input.error {
         .submenu li a:after {
           content: "";
           display: block;
-          background: url(/img/menu-arr.svg) no-repeat !important;
+          background: url(../img/menu-arr.svg) no-repeat !important;
           width: 7px;
           height: 15px;
           position: absolute;
@@ -3231,7 +3469,7 @@ input.error {
       position: absolute;
       right: 18px;
       top: 22px;
-      background: url(/img/sel.svg) no-repeat center center;
+      background: url(../img/sel.svg) no-repeat center center;
       width: 12px;
       height: 6px; }
   .documents .tabs__select {
@@ -3245,7 +3483,31 @@ input.error {
     box-sizing: border-box;
     border: 1px solid #0085bf;
     background: white;
-    outline: none !important; } }
+    outline: none !important; }
+  .contacts2 .contacts__el {
+    width: 71%; }
+  .product__top {
+    flex-direction: column-reverse;
+    align-items: flex-start; }
+  .product__top p {
+    margin-top: 40px;
+    font-size: 16px; }
+  .product__top {
+    margin-bottom: 70px; }
+  .product__item:first-child {
+    display: none; }
+  .product__item {
+    flex-direction: column; }
+    .product__item:nth-child(2) {
+      border-top: 1px solid #dbdbdb; }
+  .product__item a:first-of-type, .product__item p {
+    font-size: 13px; }
+  .product__item a:first-of-type {
+    margin-right: 0;
+    margin-bottom: 12px;
+    min-width: inherit; }
+  .product__top p {
+    max-width: 100% !important; } }
 
 @media screen and (max-width: 576px) {
   button:active, button:focus {
@@ -3608,7 +3870,64 @@ input.error {
   .documents__info p span {
     margin-left: 8px; }
   .documents__info p {
-    padding-right: 16px; } }
+    padding-right: 16px; }
+  .contacts__el span, .contacts__el p, .contacts__el a {
+    font-size: 13px; }
+  .contacts__el {
+    margin-bottom: 16px; }
+  .contacts__row_1 .contacts__el:nth-child(2) {
+    order: 5; }
+  .contacts__row_1 .contacts__el:nth-child(3) {
+    order: 2; }
+  .contacts__row_1 .contacts__el:nth-child(5) {
+    order: 3; }
+  .contacts__row_1 .contacts__el:nth-child(4) {
+    order: 4; }
+  .contacts__row_2 .contacts__el:nth-child(2) {
+    width: 100%;
+    max-width: 204px; }
+  .contacts #map {
+    height: 380px; }
+  .contacts__area p {
+    font-size: 13px; }
+  .contacts__area {
+    margin-bottom: 6px;
+    padding-bottom: 6px;
+    border-bottom: 1px solid #d9d9d9; }
+  .contacts__per h3 {
+    margin-bottom: 7px; }
+  .contacts__area p:first-child {
+    min-width: 177px;
+    margin-right: 0; }
+  .contacts__btn {
+    width: 100%;
+    font-size: 14px; }
+  .contacts2 h1 {
+    margin-bottom: 24px; }
+  .contacts2__row {
+    flex-direction: column; }
+  .contacts2 .contacts__item {
+    width: 100%; }
+  .contacts2 .contacts__item {
+    margin-bottom: 12px; }
+  .contacts2 .contacts__row_1 .contacts__el:first-child a, .contacts2 .contacts__el span {
+    font-size: 13px; }
+  .contacts2 .contacts__el p {
+    font-size: 13px; }
+  .contacts2 .contacts__el {
+    width: 100%; }
+  .contacts2 .contacts__el p {
+    max-width: 100%; }
+  .contacts2 .contacts__row_1 .contacts__el:nth-child(1) {
+    order: 1; }
+  .contacts2 .contacts__row_1 .contacts__el:nth-child(3) {
+    order: 3; }
+  .contacts2 .contacts__row_1 .contacts__el:nth-child(4) {
+    order: 4; }
+  .contacts2 .contacts__row_1 .contacts__el:nth-child(2) {
+    order: 2; }
+  .product__item div p {
+    margin-bottom: 10px; } }
 
 @media screen and (max-width: 360px) {
   .industry .swiper2 .swiper-slide a {
